@@ -150,7 +150,7 @@ export default function MortgageInfo({ onCalculateMortgagePayment, onReset }) {
       </fieldset>
 
       <button type="submit" className="submit-btn">
-        <img src="/public/assets/images/icon-calculator.svg" alt="Calculator" />
+        <img src="../assets/images/icon-calculator.svg" alt="Calculator" />
         <span>Calculate Repayments</span>
       </button>
     </form>
