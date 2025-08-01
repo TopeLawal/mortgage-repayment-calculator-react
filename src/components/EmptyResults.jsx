@@ -2,7 +2,7 @@ export default function EmptyResult() {
   return (
     <section className="result result-empty">
       <img
-        src="/public/assets/images/illustration-empty.svg"
+        src="../assets/images/illustration-empty.svg"
         alt="illustration-empty"
       />
 
